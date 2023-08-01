@@ -11,4 +11,4 @@ Responsible AI Resources for Large Language Models:
 - Tensorflow Responsible AI Toolkit: https://www.tensorflow.org/responsible_ai/tutorials
 - Microsoft Responsible AI toolbox: https://github.com/microsoft/responsible-ai-toolbox
 
-* If you have any trouble, submit in the bug tracker above.
+*If you have any trouble, submit in the bug tracker above.
